@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* css적용 방법 -> 클래스 네임 적용 */
+.avatar {
+  border-radius: 50%;
+}
